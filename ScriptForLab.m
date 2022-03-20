@@ -1,4 +1,4 @@
-%% Code written by [REDACTED] for his 3rd Year Research Project in [REDACTED]'s laboratory
+%% Code written by [REDACTED] for their 3rd Year Research Project in [REDACTED]'s laboratory
 
 % This code allows for the calculation of the average pow spec across the
 % head and the average topoplots for a group of 10-sec epochs. It also
